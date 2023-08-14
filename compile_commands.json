@@ -1,0 +1,22 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-pipe",
+            "-O3",
+            "-ggdb",
+            "-pedantic",
+            "-std=c++2a",
+            "-pthread",
+            "-I/usr/include/eigen3",
+            "-o",
+            "main.out",
+            "main.cpp"
+        ],
+        "directory": "/home/shahe/linux-hdd/development/C/swrast",
+        "file": "main.cpp"
+    }
+]
